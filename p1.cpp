@@ -13,4 +13,4 @@ class Mahasiswa{
         }
 };
 int main(){
-    Mahasiswa mhs;
+    Mahasiswa mhs1;
