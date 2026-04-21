@@ -4,7 +4,7 @@ using namespace std;
 class Mahasiswa{
     public:
         int nim;
-        string nama; //perbaikan
+        string nama;
         float nilai;
         void printData(){ 
             cout << "NIM = "<< nim <<endl;
